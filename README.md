@@ -27,4 +27,6 @@ Ideal para practicar conceptos como hilos, programación modular, entrada por co
 
 Este proyecto fue creado como práctica personal para consolidar conocimientos de Java orientados al desarrollo de aplicaciones reales de consola con manejo de hilos y estructura de capas.
 
+Instagram
+https://www.instagram.com/hdavidvc
 ---
