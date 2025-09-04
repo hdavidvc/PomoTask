@@ -1,6 +1,3 @@
-Claro, aquí tienes una descripción clara, profesional y adecuada para el archivo `README.md` de tu repositorio de la aplicación de consola **Pomodoro en Java**:
-
----
 
 ## 🕒 Pomodoro Console App (Java)
 
